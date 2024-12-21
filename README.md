@@ -61,7 +61,7 @@
 
 1. **Fork the Repository and Clone Locally**:
    ```bash
-   git clone https://github.com/not-AdityaRawat/IPK3.git
+   git clone https://github.com/not-AdityaRawat/IPK3.0
    ```
 
 2. **Navigate to the Project Directory**:
